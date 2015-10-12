@@ -5,5 +5,6 @@ public class HelloGitHub1 {
 		System.out.println("Hello GitHub");
 		System.out.println("Git Large File Storage(LFS");
 		System.out.println("Git Large File Storage");
+		System.out.println("Git pull testing");
 	}
 }
